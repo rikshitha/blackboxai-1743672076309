@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mobile Health App</string>
+    
+    <!-- Navigation items -->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="telemedicine">Telemedicine</string>
+    <string name="reminders">Reminders</string>
+    
+    <!-- Patient profile -->
+    <string name="patient_name">Patient Name</string>
+    <string name="age">Age</string>
+    <string name="condition">Condition</string>
+    <string name="save_profile">Save Profile</string>
+    
+    <!-- Telemedicine -->
+    <string name="start_call">Start Call</string>
+    <string name="end_call">End Call</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+</resources>
